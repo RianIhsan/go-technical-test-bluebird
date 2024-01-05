@@ -1,6 +1,12 @@
 // Package main merupakan package utama yang digunakan untuk membuat program yang dapat dijalankan.
 package main
 
+/*
+Import adalah sintaks untuk mengakses package atau
+library lain yang dibutuhkan dalam program.
+Pada contoh ini, kita menggunakan package fmt untuk
+operasi input/output.
+*/
 import (
 	"fmt"
 )
